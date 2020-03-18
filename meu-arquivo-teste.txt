@@ -1,5 +1,4 @@
-teste
-
-
-
-
+main(){
+puts("teste@!¹²&$")
+rubens
+}
